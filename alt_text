@@ -1,0 +1,3 @@
+    if(message == '名片'):
+        FlexMessage = json.load(open('card.json','r',encoding='utf-8'))
+        line_bot_api.reply_message(reply_token, FlexSendMessage('profile',FlexMessage))
