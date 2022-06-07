@@ -145,7 +145,7 @@
         "action": {
           "type": "uri",
           "label": "action",
-          "uri": "http://linecorp.com/"
+          "uri": "https://github.com/SuperHsung/LINE/blob/main/card.json"
         },
         "height": "sm",
         "style": "primary"
