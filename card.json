@@ -145,7 +145,7 @@
         "action": {
           "type": "uri",
           "label": "分享好友",
-          "uri": "line://app/2000660564-Xnj5AQlj"
+          "uri": "https://github.com/SuperHsung/LINE/blob/main/card.json"
         },
         "height": "sm",
         "style": "primary"
