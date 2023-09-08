@@ -2,7 +2,7 @@
   "type": "bubble",
   "hero": {
     "type": "image",
-    "url": "https://buzzorange.com/vidaorange/wp-content/uploads/sites/3/2020/05/PX05-600x422.jpg",
+    "url": "https://lh5.googleusercontent.com/p/AF1QipMwyFvuKvqExhGnz86xNkgYo9SnP4gewOwUcMce=w600-h321-p-k-no",
     "size": "full",
     "aspectRatio": "20:13",
     "aspectMode": "cover",
@@ -17,7 +17,7 @@
     "contents": [
       {
         "type": "text",
-        "text": "永程冷氣",
+        "text": "辰實工程",
         "weight": "bold",
         "size": "xl"
       },
@@ -74,14 +74,14 @@
             "contents": [
               {
                 "type": "text",
-                "text": "地址",
+                "text": "統編",
                 "color": "#aaaaaa",
                 "size": "sm",
                 "flex": 1
               },
               {
                 "type": "text",
-                "text": "桃園市中壢吳鳳二街7號",
+                "text": "91867348",
                 "wrap": true,
                 "color": "#666666",
                 "size": "sm",
@@ -96,14 +96,14 @@
             "contents": [
               {
                 "type": "text",
-                "text": "統編",
+                "text": "地址",
                 "color": "#aaaaaa",
                 "size": "sm",
                 "flex": 1
               },
               {
                 "type": "text",
-                "text": "91563598",
+                "text": "中壢區龍岡路三段281巷15弄10號",
                 "wrap": true,
                 "color": "#666666",
                 "size": "sm",
@@ -126,8 +126,8 @@
         "height": "sm",
         "action": {
           "type": "uri",
-          "label": "0921090808",
-          "uri": "tel:+886921090808"
+          "label": "0928548688",
+          "uri": "tel:+886928548688"
         }
       },
       {
@@ -137,15 +137,15 @@
         "action": {
           "type": "uri",
           "label": "加 LINE 尋問",
-          "uri": "https://line.me/ti/p/4PRZmH-Y1k"
+          "uri": "https://line.me/ti/p/qJtCwyVKwX"
         }
       },
       {
         "type": "button",
         "action": {
           "type": "uri",
-          "label": "action",
-          "uri": "https://github.com/SuperHsung/LINE/blob/main/card.json"
+          "label": "分享好友",
+          "uri": "line://app/2000660564-Xnj5AQlj"
         },
         "height": "sm",
         "style": "primary"
